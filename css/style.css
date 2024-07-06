@@ -977,7 +977,7 @@ span {
         width: 0px;
         height: 60px;
         border: 3px solid var(--main-color);
-        border-radius: 50%;
+        border-radius: 5%;
         z-index: -1;
     }
     #darkMode-icon {
@@ -985,7 +985,7 @@ span {
     }
 
     .home .profession-box .profession:nth-child(1) {
-        transform: rotate(-90deg) translate(-110px, -180px);
+        transform: rotate(-90deg) translate(-110px, -470px);
     }
 
     .home .profession-box .profession:nth-child(2) {
